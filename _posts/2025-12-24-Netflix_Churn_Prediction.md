@@ -1,3 +1,9 @@
+---
+layout: single
+title:  "Netflix Churn Prediction"
+---
+
+
 # **Part I. Project Overview and Methodology**
 
 ## **1. Project Context**
@@ -33,8 +39,8 @@ This project uses raw customer-level subscription data from a Netflix-like strea
 
 ## **4. Project Goals**
 
-*   Primary Goal: The primary goal of this project is to predict customer churn by leveraging user-level subscription and engagement data through supervised machine learning classification models.
-*   Secondary Goal: The project also aims to identify which user characteristics and behavioral variables most strongly influence churn, and to understand their relative importance in predicting customer retention outcomes.
+*   **Primary Goal:** The primary goal of this project is to predict customer churn by leveraging user-level subscription and engagement data through supervised machine learning classification models.
+*   **Secondary Goal:** The project also aims to identify which user characteristics and behavioral variables most strongly influence churn, and to understand their relative importance in predicting customer retention outcomes.
 
 ## **5. Methodology**
 
